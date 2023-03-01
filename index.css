@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#root{
+    background: #222222;
+    box-shadow: 36px 43px 17px rgba(103, 103, 103, 0.25);
+    border-radius: 10px;
+}

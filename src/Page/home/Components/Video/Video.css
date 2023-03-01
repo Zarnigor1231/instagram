@@ -1,0 +1,12 @@
+.pub-list{
+   flex-wrap: wrap; 
+}
+
+.pub-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.105em;
+    color: #FFFFFF;
+}

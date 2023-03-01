@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.header-inp{
+    margin-right: 143px;
+    padding: 13px 0 13px 33px;
+    width: 593px;
+    background-color: #2F2F2F;
+    border-radius: 30px;
+    border: transparent;
+}
