@@ -9,7 +9,7 @@ import './Account.css'
 function Account() {
   return (
     <div className='account'>
-        <button className='account-btn'>
+        <button className='account-btn avatar-profile'>
             <img className='account-img' src={myAccount} width ='80' height='80' alt="myAccount" />
         </button>
         <h2 className='account-title'>Zarnigor</h2>

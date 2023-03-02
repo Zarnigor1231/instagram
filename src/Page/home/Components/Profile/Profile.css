@@ -6,3 +6,6 @@
     letter-spacing: 0.105em;
     color: #FFFFFF;
 }
+.avatar-profile:hover{
+    border: 2px solid #FBB461;
+}

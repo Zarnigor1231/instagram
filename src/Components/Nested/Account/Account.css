@@ -5,6 +5,7 @@
 .account-btn{
     border: transparent;
     border-radius : 50%;
+    border: 2px solid transparent;
 }
 .account-img{
     border: 50%;

@@ -11,7 +11,7 @@ export function Video() {
   return (
         <div className='mt-8'>
             <h2 className='mt-8 pub-title'>Publicaciones</h2>
-            <ul className='flex pub-list mt-5'>
+            <ul className='flex pub-list mt-5 wrapper'>
                 <li className='pub-item mr-5 mb-5'>
                     <img src={PublicacionesImg} width='243' height='169' alt="PublicacionesImg" />
                 </li>

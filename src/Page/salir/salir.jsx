@@ -6,7 +6,7 @@ function Salir() {
     <Link to='salir' className='page-salir'>
       <hr className='page-line' />
       <div className='page-item'>
-        <i class="fa-solid fa-arrow-right-to-bracket icon"></i>
+        <i className="fa-solid fa-arrow-right-to-bracket icon"></i>
         <h3 className='page-title'>Salir</h3>
       </div>
 

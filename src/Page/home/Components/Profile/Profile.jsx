@@ -10,19 +10,19 @@ export function Profile() {
         <div>
             <h2 className='historias mt-8 mb-4'>Historias</h2>
             <Stack direction="row" spacing={2}>
-                <Avatar className='mr-8'>H</Avatar>
-                <Avatar className='mr-8'>N</Avatar>
-                <Avatar className='mr-8'>O</Avatar>
-                <Avatar className='mr-8'>P</Avatar>
-                <Avatar className='mr-8'>Q</Avatar>
-                <Avatar className='mr-8'>R</Avatar>
-                <Avatar className='mr-8'>T</Avatar>
-                <Avatar className='mr-8'>H</Avatar>
-                <Avatar className='mr-8'>N</Avatar>
-                <Avatar className='mr-8'>O</Avatar>
-                <Avatar className='mr-8'>P</Avatar>
-                <Avatar className='mr-8'>Q</Avatar>
-                <Avatar className='mr-8'>R</Avatar>
+                <Avatar className='mr-8 avatar-profile'>H</Avatar>
+                <Avatar className='mr-8 avatar-profile'>N</Avatar>
+                <Avatar className='mr-8 avatar-profile'>O</Avatar>
+                <Avatar className='mr-8 avatar-profile'>P</Avatar>
+                <Avatar className='mr-8 avatar-profile'>Q</Avatar>
+                <Avatar className='mr-8 avatar-profile'>R</Avatar>
+                <Avatar className='mr-8 avatar-profile'>T</Avatar>
+                <Avatar className='mr-8 avatar-profile'>H</Avatar>
+                <Avatar className='mr-8 avatar-profile'>N</Avatar>
+                <Avatar className='mr-8 avatar-profile'>O</Avatar>
+                <Avatar className='mr-8 avatar-profile'>P</Avatar>
+                <Avatar className='mr-8 avatar-profile'>Q</Avatar>
+                <Avatar className='mr-8 avatar-profile'>R</Avatar>
                 <Avatar>T</Avatar>
             </Stack>
         </div>
